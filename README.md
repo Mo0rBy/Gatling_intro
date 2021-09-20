@@ -11,9 +11,11 @@ Intellij is an IDE specifically designed for Java. It created by *JetBrains*, th
 ## Setting up test ENV
 In Intellij, we need to ensure that the **Scala** plugin is installed. Do this:
 
+#### Intellij
 - Plugins >> `ctlr + alt + s` >> Install Scala
 
-In VSCode, we can do a similar thing. For VSCode, install the extensions:
+#### VSCode
+For VSCode, install the extensions:
 - Scala Syntax (official)
 - Scala (Metals)
 
